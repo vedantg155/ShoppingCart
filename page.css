@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://images.pexels.com/photos/346748/pexels-photo-346748.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar ul{
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.navbar ul li{
+    color: white;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+}
+
+.mainpage h1{
+    color: white;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+.mainpage{
+    font-size: 30px;
+    text-align: center;
+}
